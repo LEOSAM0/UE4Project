@@ -11,7 +11,6 @@ AProp::AProp()
 
 	MeshComp = CreateDefaultSubobject<UStaticMeshComponent>("MeshComp");
 	RootComponent = MeshComp;
-
 }
 
 // Called when the game starts or when spawned
